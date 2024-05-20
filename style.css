@@ -1,0 +1,154 @@
+html{
+    direction: rtl;
+}
+body{
+    background: #ffffff;
+}
+
+.header{
+    justify-content: space-around;
+    direction: rtl;
+    align-items: center;
+    display: flex;
+}
+.head img{
+    direction: rtl;
+    width: 207px;
+    height: 80px;
+}
+.list ul{
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+.list ul li {
+    margin: 20px;
+    text-align: none;
+    list-style-type: none;
+    font-size: 1.5rem !important;
+}
+.list-left{
+    display: flex;
+
+}
+.list-left img{
+    margin: 20px;
+}
+.velog1{
+    width: 1920px;
+    height: 500px;
+    background-color:rgba(17,17,17,.1);
+    margin-bottom: 40px;
+}
+.velog-r{
+    width: 290px;
+    height: 195px;
+    background: #1b1b1b;
+    margin: 50px;
+    margin-top: 30px;
+    margin-right: 15%;
+    float: right;
+}
+.velog-r-b{
+    width: 290px;
+    height: 195px;
+    background: #0011ff;
+    margin: 50px;
+    margin-top: 30px;
+    margin-left: 12%;
+    float: left;
+}
+.velog-r-b-b{
+    width: 290px;
+    height: 195px;
+    background: #00ff95;
+    margin: 50px;
+    margin-top: -170px;
+    margin-right: 290px;
+
+}
+.velog-center{
+    width: 628px;
+    height: 448px;
+    background: #ff0000;
+    float: none;
+    margin-right: 35%;
+    
+}
+.velog-r-b-l{
+    width: 290px;
+    height: 195px;
+    background: #ff00c8;
+    margin-left: 12%;
+    float: left;
+    margin-top: -245px;
+}
+.velog2{
+    
+    width: 1920px;
+    height: 368px;
+    background-color: rgba(17,17,17,.1);
+    margin-bottom: 40px;
+}
+.velog-text{
+    margin: 15px;
+
+}
+.velog-text h4{
+    margin-right: 20%;
+    padding-top: 20px;
+}
+.velog-contect{
+    margin: auto;
+    display: flex;
+    direction: rtl;
+    align-items: center ;
+    margin-right: 20%;
+    transition:inherit;
+}
+.velog-contect-1{
+
+    background: #ff0000;
+    width: 377px;
+    height: 212px;
+    margin: 10px;
+}
+.velog3{
+    width: 1920px;
+    height: 368px;
+    background-color: rgba(17,17,17,.1);
+    margin-bottom: 40px;
+}
+.velog3{
+    display: flex;
+    align-items: center;
+    direction: rtl;
+
+  
+}
+.velog-contect-3{
+    display: flex;
+    direction: rtl;
+    align-items: center;
+    margin-right: 20%;
+}
+.velog-text-1 h4{
+    margin-bottom: 30px;
+}
+.anime{
+    width: 1520px;
+    display: flex;
+    margin: 50px;
+    margin-right: 20%;
+    
+}
+.anime1{
+    width: 378px;
+    height: 212px;
+    background: #6200ff;
+    display: flex;
+    direction: rtl;
+    align-items: center;
+    
+    margin-left: 50px;
+}
